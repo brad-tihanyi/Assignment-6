@@ -18,5 +18,5 @@ void main()
 	program a;
 	cout << "Enter a number ";
 	cin >> a.x; 
-	cout << "\n" << "Your number is " << a.x;
+	cout << "Your number is " << a.x << "\n";
 }
